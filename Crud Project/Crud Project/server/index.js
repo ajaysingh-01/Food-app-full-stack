@@ -106,5 +106,3 @@ app.listen(8001, () => {
     console.log("server is running on 8001");
 });
 
-
-console.log("hello world");
